@@ -34,9 +34,7 @@
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
-    }
-  ]
-},
+    },
     {
       "question": "Which of the following is NOT a casting defect:",
       "answers": {
@@ -53,10 +51,8 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    }
-  ]
-},
-    {
+    },
+  {
       "question": "The amount of draft required does not depends upon:",
       "answers": {
         "a": "Shape and size of casting",
@@ -72,10 +68,8 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
-  ]
-},
-    {
+    },
+  {
       "question": "Which of the following is not a type of core according to their position:",
       "answers": {
         "a": "Horizontal",
