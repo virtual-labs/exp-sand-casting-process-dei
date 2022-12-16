@@ -1,13 +1,202 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
-		<!-- Your code goes here-->
-
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+<header>
+  <button class="menu-btn" onclick="dispmenu(this)">
+  <div class="container">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+  </div></button>
+  <b id="pagechanger"><a href="../index.html">Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</a></b>
+</header>
+<nav class="side-nav" id="navbar">
+		<div class="nav-element">
+			<a href="../index.html" >Aim</a>
+		</div>
+		<div class="nav-element">
+			<a href="../theory.html" >Theory</a>
+		</div>
+		<div class="nav-element">
+			<a href="../objective.html" >Objective</a>
+		</div>
+		<div class="nav-element">
+			<a href="../pretest.html" >Pretest</a>
+		</div>
+		<div class="nav-element">
+			<a href="../procedure.html" >Procedure</a>
+		</div>
+		<div class="nav-element">
+			<a href="index.html" >
+			<span>Simulation</span></a>
+		</div>
+		<div class="nav-element">
+			<a href="../posttest.html" >Posttest</a>
+		</div>
+		<div class="nav-element">
+			<a href="../references.html" >References</a>
+		</div>
+		<div class="nav-element">
+			<a href="../feedback.html" >Feedback</a>
+		</div>
+		</nav>
+		
+	<div id="simulation-cont">
+		<div id="matwork">
+			<div style="height:700px;">
+				Experiment 1: To study and observe various stages of casting through demonstration of sand casting process<br>
+				<div id="simulation"><br>
+				<img src="images/flask.jpg" width="38%" title="Drag"><br><br>Drag
+				</div>
+				
+				<div class="invertedDrag" id="invertedDrag">
+				<b style="color:red;">Click on <u>Drag</u> to invert the drag</b><br><br>
+				<img src="images/flask.jpg" width="100px" title="Click here" onclick="invertedDrag()"><br>Drag
+				</div>
+				
+				<div class="sidecontainer" id="patternInDrag">
+				<b style="color:red;">Click on <u>Pattern</u> to put it in the drag</b><br><br>
+				<img src="images/pattern.jpg" title="Click here" onclick="patternInDrag()"><br>Pattern
+				</div>
+				
+				<div class="sidecontainer" id="shovelToSand">
+				<b style="color:red;">Click on <u>Shovel</u> to take sand</b><br><br>
+				<img src="images/shovel.jpg" title="Click here" onclick="shovelToSand()"><br>Shovel
+				</div>
+				
+				<div class="sidecontainer" id="sandInDrag">
+				<b style="color:red;">Click on <u>OK</u> to put the sand in drag</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="sandInDrag()">
+				</div>
+				
+				<div class="sidecontainer" id="ramming">
+				<b style="color:red;">Click on <u>Rammer</u> to Ram the sand into the inverted drag</b><br><br>
+				<img src="images/rammer.jpg" title="Click here" onclick="ramming()"><br>Rammer
+				</div>
+				
+				<div class="sidecontainer" id="partingSand">
+				<b style="color:red;">Click on <u>Parting Sand</u> to sprinkle on the drag</b><br><br>
+				<img src="images/partingSand.jpg" title="Click here" onclick="partingSand()"><br>Parting Sand
+				</div>
+				
+				<div class="sidecontainer" id="mouldingFlask">
+				<b style="color:red;">Click on <u>Moulding Flask</u> to fix the drag with guide pins</b><br><br>
+				<img src="images/mouldingFlask.jpg" title="Click here" onclick="mouldingFlask()"><br>Moulding Flask
+				</div>
+				
+				<div class="sidecontainer" id="sandToFlask">
+				<b style="color:red;">Click on <u>Shovel</u> to put moulding sand into the moulding flask</b><br><br>
+				<img src="images/shovel.jpg" title="Click here" onclick="sandToFlask()"><br>Shovel
+				</div>
+				
+				<div class="sidecontainer" id="sprue">
+				<b style="color:red;">Click on <u>Sprue</u> to position it</b><br><br>
+				<img src="images/sprue.jpg" title="Click here" onclick="sprue()"><br>Sprue
+				</div>
+				
+				<div class="sidecontainer" id="sandToDrag">
+				<b style="color:red;">Click on <u>Shovel</u> to put sand into the flask to position the riser</b><br><br>
+				<img src="images/shovel.jpg" title="Click here" onclick="sandToDrag()"><br>Shovel
+				</div>
+				
+				<div class="sidecontainer" id="riser">
+				<b style="color:red;">Click on <u>Riser</u> to position it</b><br><br>
+				<img src="images/riser.jpg" title="Click here" onclick="riser()"><br>Riser
+				</div>
+				
+				<div class="sidecontainer" id="sandToMFlask">
+				<b style="color:red;">Click on <u>Shovel</u> to put sand into the moulding flask</b><br><br>
+				<img src="images/shovel.jpg" title="Click here" onclick="sandToMFlask()"><br>Shovel
+				</div>
+				
+				<div class="sidecontainer" id="ram">
+				<b style="color:red;">Click on <u>Rammer</u> to Ram the sand into the moulding flask </b><br><br>
+				<img src="images/rammer.jpg" title="Click here" onclick="ram()"><br>Rammer
+				</div>
+				
+				<div class="sidecontainer" id="removeSprue">
+				<b style="color:red;">Click on <u>Sprue</u> to remove Riser and Downsprue</b><br><br>
+				<img src="images/sprue.jpg" title="Click here" onclick="removeSprue()"><br>Sprue
+				</div>
+				
+				<div class="sidecontainer" id="removeDrag">
+				<b style="color:red;">Click on <u>Moulding Flask</u> to separate drag and cope to create runner</b><br><br>
+				<img src="images/mouldingFlask.jpg" title="Click here" onclick="removeDrag()"><br>Moulding Flask
+				</div>
+				
+				<div class="sidecontainer" id="runner">
+				<b style="color:red;">Click on <u>OK</u> to create Runner</b><br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="runner()">
+				</div>
+				
+				<div class="sidecontainer" id="joinDrag">
+				<b style="color:red;">Click on <u>Moulding Flask</u> to join cope and drag again</b><br><br>
+				<img src="images/mouldingFlask.jpg" title="Click here" onclick="joinDrag()"><br>Moulding Flask
+				</div>
+				
+				<div class="sidecontainer" id="moltenMetal">
+				<b style="color:red;">Click on <u>Ladle</u> to pour the molten metal into the moulding flask</b><br><br>
+				<img src="images/ladle.jpg" width="100px" title="Click here" onclick="moltenMetal()"><br>Ladle with molten metal
+				</div>
+				
+				<div class="sidecontainer" id="openDrag">
+				<b style="color:red;">Click on <u>Moulding Flask</u> to open the drag</b><br><br>
+				<img src="images/mouldingFlask.jpg" width="100px" title="Click here" onclick="openDrag()"><br>Moulding Flask
+				</div>
+				
+				<div class="sidecontainer" id="casting">
+				<b style="color:red;">Click on <u>Pattern</u> to get the casted product</b><br><br>
+				<img src="images/pattern.jpg" title="Click here" onclick="casting()"><br>Pattern
+				</div>
+			</div>
+<img src="images/reset.jpg" align="right" width="7%" onclick="resetfun()"><br>
+<hr>
+	<div id="about">
+		<div class="box" id="zoom">
+			<img src="images/mouldingFlask.jpg" title="Moulding Flask">
+			<h3 class="h-secondary center">Moulding Flask</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/pattern.jpg" title="Pattern">
+			<h3 class="h-secondary center">Pattern</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/sand.jpg" title="Moulding Sand">
+			<h3 class="h-secondary center">Sand</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/shovel.jpg" title="Shovel">
+			<h3 class="h-secondary center">Shovel</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/rammer.jpg" title="Rammer">
+			<h3 class="h-secondary center">Rammer</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/ladle.jpg" title="Ladle with molten metal">
+			<h3 class="h-secondary center">Ladle</h3>
+		</div>
+		
+	</div>
+	</div>
+</div>
+<div style="margin-top:25px" id="footer">
+<hr>
+<Marquee>
+Copyright &copy; Dayalbagh Educational Institute&nbsp;<a href="https://www.dei.ac.in" target="_blank" title="DEI">(www.dei.ac.in)</a>&nbsp;-&nbsp;<a href="http://msvs-dei.vlabs.ac.in/ajay/index.html" target="_blank" title="Profile">Ajay Kant Upadhyay</a>
+</Marquee>
+</div>
 </body>
 </html>
