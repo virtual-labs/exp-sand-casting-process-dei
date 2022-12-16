@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which sand is generally used repetitively for mould making:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Silica sand",
+        "b": "Zircon",
+        "c": "Olivine",
+        "d": "Dolomite"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,50 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The purpose of gate is to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Feed the casting at a rate consistent with the rate of solidification",
+        "b": "Act as reservoir for molten metal",
+        "c": "Help feed the casting until all solidification takes place",
+        "d": "Feed molten metal from pouring basin to gate"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+},
+    {
+      "question": "The purpose of sprue is to:",
+      "answers": {
+        "a": "Feed the casting at a rate consistent with the rate of solidification",
+        "b": "Act as reservoir for molten metal",
+        "c": "Help feed the casting until all solidification takes place",
+        "d": "Feed molten metal from pouring basin to gate"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+},
+    {
+      "question": "The taper provided to the pattern for its removal is known as:",
+      "answers": {
+        "a": "Shaking allowance",
+        "b": "Distortion allowance",
+        "c": "Draft allowance",
+        "d": "Machining allowance"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +71,25 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+},
+    {
+      "question": "The function of cores in casting is to:",
+      "answers": {
+        "a": "Form extended parts",
+        "b": "Form internal cavities",
+        "c": "Used for directional solidification",
+        "d": "Act as reservoir for molten metal"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

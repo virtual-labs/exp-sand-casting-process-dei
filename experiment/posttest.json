@@ -2,12 +2,48 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The property of sand due to which gas and steam escapes from sand is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cohesiveness",
+        "b": "Adhesiveness",
+        "c": "Permeability",
+        "d": "Flowability"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is NOT true about riser:",
+      "answers": {
+        "a": "It permits the molten metal to rise above the highest point in the casting",
+        "b": "Filling up of mould cavity can be visually checked from it",
+        "c": "The casting solidifies directionally towards the riser",
+        "d": "Riser and runner extension are used for the same purpose"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+},
+    {
+      "question": "Which of the following is NOT a casting defect:",
+      "answers": {
+        "a": "Hot cracks",
+        "b": "Swell",
+        "c": "Shrinkage",
+        "d": "Hot tears"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -17,14 +53,35 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    },
+    }
+  ]
+},
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The amount of draft required does not depends upon:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Shape and size of casting",
+        "b": "Moulding method",
+        "c": "Material of pattern",
+        "d": "Method of production"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+},
+    {
+      "question": "Which of the following is not a type of core according to their position:",
+      "answers": {
+        "a": "Horizontal",
+        "b": "Vertical",
+        "c": "Inclined",
+        "d": "Balanced"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
