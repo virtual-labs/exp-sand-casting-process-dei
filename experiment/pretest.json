@@ -34,10 +34,8 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    }
-  ]
-},
-    {
+    },
+  {
       "question": "The purpose of sprue is to:",
       "answers": {
         "a": "Feed the casting at a rate consistent with the rate of solidification",
@@ -53,10 +51,8 @@
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
-    }
-  ]
-},
-    {
+    },
+  {
       "question": "The taper provided to the pattern for its removal is known as:",
       "answers": {
         "a": "Shaking allowance",
@@ -72,10 +68,8 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
-  ]
-},
-    {
+    },
+ {
       "question": "The function of cores in casting is to:",
       "answers": {
         "a": "Form extended parts",
