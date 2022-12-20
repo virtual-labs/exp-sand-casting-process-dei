@@ -7,7 +7,9 @@ Step 3: Mould making<br>
 Step 4: Melting of metal and pouring<br>
 Step 5: Cooling and solidification<br>
 Step 6: Cleaning of castings and inspection
- 
+
+![Sand Casting Process](images/flochart.jpg "Sand Casting Process")
+
 ### Step 1: Pattern making<br>
 •	The pattern is a physical replica of the exterior of the casting with dimensional allocation for shrinkage and finishing used to make the mould.<br>
 •	The cavity in the mould is prepared with the help of the pattern and is a replica of the casting required.<br>
@@ -52,7 +54,9 @@ Step 6: Cleaning of castings and inspection
 •	The casting starts with the construction of a pattern, a duplicate of the final casting with allowances.<br>
 •	The moulding material is then packed around the pattern, and the pattern is removed to produce a mould cavity.<br>
 •	The term casting is used to describe both the process and the product when molten metal is poured and solidified in a mould.
- 
+
+![Casting Termology](images/casting.jpg "Casting Termology")
+
 ### Flask<br>
 •	The flask is the box that contains the moulding aggregate.
 
@@ -83,7 +87,9 @@ Step 6: Cleaning of castings and inspection
 •	The sprue may have either straight or taper shape.<br>
 •	In straight or parallel sprue, the metal contracts inwards and is pulled away from the sprue walls.<br>
 •	In a tapered sprue, the liquid metal flows down firmly in contact with walls and this reduces turbulence and eliminates sucking of gas or air from the mould (Air Aspiration).
- 
+
+![Sprue](images/sprue.jpg "Sprue")
+
 ### Sprue base<br>
 •	This is a reservoir for metal at the bottom of the sprue to reduce the momentum of the falling molten metal.<br>
 •	The molten metal, as it moves down the sprue gains in velocity, some of which is lost in the sprue base well, and the mould erosion is reduced.<br>
@@ -103,9 +109,12 @@ Step 6: Cleaning of castings and inspection
 •	But, in case of bottom gating system since molten material enters from bottom, if freezing of molten metal takes place then it could choke off metal flow before mould is full.<br>
 •	Bottom gating creates an unfavourable temperature gradient and makes it difficult to achieve directional solidification. Bottom gating is used for heavy castings.<br>
 •	In parting gate the molten material enters the mould at the parting plane.
- 
+
+![Gate](images/gate.jpg "Gate")
 
 ### GATING SYSTEM<br>
 •	Gating systems are necessary for the molten metal to flow into the mould cavity.<br>
 •	The gating system is the network of channels used to deliver the molten metal from outside the mould into the mould cavity.<br>
 •	The way in which the liquid metal enters the mould has a decided influence upon the quality and soundness of the casting, the different components of a gating system should be carefully designed and produced.
+
+![Gating System](images/gatingSystem.jpg "Gating System")
