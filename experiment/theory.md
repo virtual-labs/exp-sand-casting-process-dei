@@ -8,7 +8,7 @@ Step 4: Melting of metal and pouring<br>
 Step 5: Cooling and solidification<br>
 Step 6: Cleaning of castings and inspection
 
-![Sand Casting Process](images/flochart.jpg "Sand Casting Process")
+![Sand Casting Process](images/flowchart.jpg "Sand Casting Process")
 
 ### Step 1: Pattern making<br>
 •	The pattern is a physical replica of the exterior of the casting with dimensional allocation for shrinkage and finishing used to make the mould.<br>
