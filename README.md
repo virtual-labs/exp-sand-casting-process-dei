@@ -4,7 +4,7 @@
 <b>Discipline | <b> Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab
-<b> Experiment| <b> To study the making of cores using core sand.
+<b> Experiment| <b> To study and observe various stages of casting through demonstration of sand casting process.
 
 ### About the Experiment
 
