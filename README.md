@@ -4,13 +4,11 @@
 <b>Discipline | <b> Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab
-<b> Experiment| <b> To study the making of cores using core sand.
+<b> Experiment| <b> To study and observe various stages of casting through demonstration of sand casting process.
 
 ### About the Experiment
 
-Cores are sand blocks they are used to make hollow portion in a casting. It is placed in a mould so that when molten metal is poured into the mould. 
-This apart of mould will remain vacant i.e. the molten metal will not fill this part of the mould. 
-So, when the mould is broken and the castings removed a hollow portion will result in the casting.
+The most universal method of making castings is by using sand moulds. Sand moulds are made by ramming sand in a metallic or wooden flask. Such a casting process is commonly referred to as sand casting process.
  
 <b>Name of Developer | <b> Prof. Rahul Swarup Sharma
 :--|:--|
