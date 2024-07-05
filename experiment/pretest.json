@@ -10,10 +10,10 @@
         "d": "Dolomite"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability. One of its key advantages is that it can be reused multiple times in the mold making process. After the casting solidifies and the mold is broken apart, the silica sand can be reclaimed, cleaned, and reused in subsequent mold making processes. This reusability is cost-effective and makes silica sand a preferred choice in foundry applications.",
+        "b": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability.",
+        "c": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability.",
+        "d": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Feed molten metal from pouring basin to gate"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts.",
+        "b": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts.",
+        "c": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts.",
+        "d": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
