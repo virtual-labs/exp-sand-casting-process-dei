@@ -10,10 +10,10 @@
         "d": "Flowability"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Permeability in sand refers to its ability to allow gases (such as air or steam) to pass through it. In casting processes, including sand casting, permeability is a critical property because it allows gases generated during pouring (due to molten metal entering the mold) or during solidification (due to the release of gases from the metal) to escape freely from the mold cavity. This prevents defects like gas porosity in the casting.",
+        "b": "Permeability in sand refers to its ability to allow gases (such as air or steam) to pass through it. In casting processes, including sand casting, permeability is a critical property because it allows gases generated during pouring (due to molten metal entering the mold) or during solidification (due to the release of gases from the metal) to escape freely from the mold cavity. This prevents defects like gas porosity in the casting.",
+        "c": "Permeability in sand refers to its ability to allow gases (such as air or steam) to pass through it. In casting processes, including sand casting, permeability is a critical property because it allows gases generated during pouring (due to molten metal entering the mold) or during solidification (due to the release of gases from the metal) to escape freely from the mold cavity. This prevents defects like gas porosity in the casting.",
+        "d": "Permeability in sand refers to its ability to allow gases (such as air or steam) to pass through it. In casting processes, including sand casting, permeability is a critical property because it allows gases generated during pouring (due to molten metal entering the mold) or during solidification (due to the release of gases from the metal) to escape freely from the mold cavity. This prevents defects like gas porosity in the casting."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Riser and runner extension are used for the same purpose"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "A riser is designed to act as a reservoir of molten metal that allows it to feed the casting as it solidifies. •	Runner extension refers to the portion of the gating system that connects the sprue to the gates and ultimately to the mold cavity",
+        "b": "A riser is designed to act as a reservoir of molten metal that allows it to feed the casting as it solidifies. •	Runner extension refers to the portion of the gating system that connects the sprue to the gates and ultimately to the mold cavity",
+        "c": "A riser is designed to act as a reservoir of molten metal that allows it to feed the casting as it solidifies. •	Runner extension refers to the portion of the gating system that connects the sprue to the gates and ultimately to the mold cavity",
+        "d": "A riser is designed to act as a reservoir of molten metal that allows it to feed the casting as it solidifies. •	Runner extension refers to the portion of the gating system that connects the sprue to the gates and ultimately to the mold cavity"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Hot tears"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Hot cracks, also known as hot tearing or solidification cracking, are indeed a type of casting defect. These cracks occur during solidification due to the stresses caused by uneven cooling or thermal contraction of the metal. Hot cracks can significantly compromise the structural integrity of the casting.",
+        "b": "Hot cracks, also known as hot tearing or solidification cracking, are indeed a type of casting defect. These cracks occur during solidification due to the stresses caused by uneven cooling or thermal contraction of the metal. Hot cracks can significantly compromise the structural integrity of the casting.",
+        "c": "Hot cracks, also known as hot tearing or solidification cracking, are indeed a type of casting defect. These cracks occur during solidification due to the stresses caused by uneven cooling or thermal contraction of the metal. Hot cracks can significantly compromise the structural integrity of the casting.",
+        "d": "Hot cracks, also known as hot tearing or solidification cracking, are indeed a type of casting defect. These cracks occur during solidification due to the stresses caused by uneven cooling or thermal contraction of the metal. Hot cracks can significantly compromise the structural integrity of the casting."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Method of production"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Larger and more complex shapes generally require more draft to facilitate easy removal from the mold.",
+        "b": "Different molding methods may have specific requirements for draft angles to ensure proper mold filling and pattern removal.",
+        "c": "The material of the pattern used (option c) does not typically affect the amount of draft required.",
+        "d": "Whether the casting is made using sand casting, investment casting, or other methods can influence the required draft angles."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "Balanced"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "This type of core is positioned horizontally within the mold cavity.",
+        "b": "This type of core is positioned vertically within the mold cavity.",
+        "c": "This type of core is positioned at an angle within the mold cavity.",
+        "d": ""inclined" is not a standard type of core position classification in casting terminology. Core positions are typically described as horizontal or vertical, and inclined cores would generally fall under a specific angular orientation within the mold cavity rather than as a separate classification term."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
