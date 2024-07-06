@@ -81,7 +81,7 @@
         "a": "This type of core is positioned horizontally within the mold cavity.",
         "b": "This type of core is positioned vertically within the mold cavity.",
         "c": "This type of core is positioned at an angle within the mold cavity.",
-        "d": ""inclined" is not a standard type of core position classification in casting terminology. Core positions are typically described as horizontal or vertical, and inclined cores would generally fall under a specific angular orientation within the mold cavity rather than as a separate classification term."
+        "d": "inclined is not a standard type of core position classification in casting terminology. Core positions are typically described as horizontal or vertical, and inclined cores would generally fall under a specific angular orientation within the mold cavity rather than as a separate classification term."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
