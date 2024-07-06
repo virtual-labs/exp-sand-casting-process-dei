@@ -10,10 +10,10 @@
         "d": "Dolomite"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability. One of its key advantages is that it can be reused multiple times in the mold making process. After the casting solidifies and the mold is broken apart, the silica sand can be reclaimed, cleaned, and reused in subsequent mold making processes. This reusability is cost-effective and makes silica sand a preferred choice in foundry applications.",
+        "b": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability.",
+        "c": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability.",
+        "d": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Feed molten metal from pouring basin to gate"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts.",
+        "b": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts.",
+        "c": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts.",
+        "d": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Feed molten metal from pouring basin to gate"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In sand casting, the sprue is a vertical passage through which molten metal flows from the pouring basin (where the metal is poured into the mold) to the gate (through which the metal enters the mold cavity). Its primary purpose is to provide a pathway for the molten metal to reach the mold cavity efficiently and without turbulence.",
+        "b": "In sand casting, the sprue is a vertical passage through which molten metal flows from the pouring basin (where the metal is poured into the mold) to the gate (through which the metal enters the mold cavity). Its primary purpose is to provide a pathway for the molten metal to reach the mold cavity efficiently and without turbulence.",
+        "c": "In sand casting, the sprue is a vertical passage through which molten metal flows from the pouring basin (where the metal is poured into the mold) to the gate (through which the metal enters the mold cavity). Its primary purpose is to provide a pathway for the molten metal to reach the mold cavity efficiently and without turbulence.",
+        "d": "In sand casting, the sprue is a vertical passage through which molten metal flows from the pouring basin (where the metal is poured into the mold) to the gate (through which the metal enters the mold cavity). Its primary purpose is to provide a pathway for the molten metal to reach the mold cavity efficiently and without turbulence."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Machining allowance"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In casting processes, especially sand casting, a draft allowance refers to the slight taper or angle given to the vertical walls of the pattern or mold cavity. This taper facilitates the removal of the pattern from the mold after the molding material has been compacted around it. The draft allowance ensures that the pattern can be withdrawn smoothly without damaging the mold cavity or the pattern itself.",
+        "b": "In casting processes, especially sand casting, a draft allowance refers to the slight taper or angle given to the vertical walls of the pattern or mold cavity. This taper facilitates the removal of the pattern from the mold after the molding material has been compacted around it. The draft allowance ensures that the pattern can be withdrawn smoothly without damaging the mold cavity or the pattern itself.",
+        "c": "In casting processes, especially sand casting, a draft allowance refers to the slight taper or angle given to the vertical walls of the pattern or mold cavity. This taper facilitates the removal of the pattern from the mold after the molding material has been compacted around it. The draft allowance ensures that the pattern can be withdrawn smoothly without damaging the mold cavity or the pattern itself.",
+        "d": "In casting processes, especially sand casting, a draft allowance refers to the slight taper or angle given to the vertical walls of the pattern or mold cavity. This taper facilitates the removal of the pattern from the mold after the molding material has been compacted around it. The draft allowance ensures that the pattern can be withdrawn smoothly without damaging the mold cavity or the pattern itself."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "Act as reservoir for molten metal"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Cores in casting are used to create internal cavities or voids within the casting that cannot be formed by the pattern alone. These cavities may include holes, recesses, or other complex internal features of the casting. Cores are typically made from sand or other materials that can withstand the heat and pressure of the molten metal during casting.",
+        "b": "Cores in casting are used to create internal cavities or voids within the casting that cannot be formed by the pattern alone. These cavities may include holes, recesses, or other complex internal features of the casting. Cores are typically made from sand or other materials that can withstand the heat and pressure of the molten metal during casting.",
+        "c": "Cores in casting are used to create internal cavities or voids within the casting that cannot be formed by the pattern alone. These cavities may include holes, recesses, or other complex internal features of the casting. Cores are typically made from sand or other materials that can withstand the heat and pressure of the molten metal during casting.",
+        "d": "Cores in casting are used to create internal cavities or voids within the casting that cannot be formed by the pattern alone. These cavities may include holes, recesses, or other complex internal features of the casting. Cores are typically made from sand or other materials that can withstand the heat and pressure of the molten metal during casting."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
