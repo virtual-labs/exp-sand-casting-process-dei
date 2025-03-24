@@ -2,88 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The property of sand due to which gas and steam escapes from sand is:",
+      "question": "What is the purpose of a sprue base in a gating system? (LO2)",
       "answers": {
-        "a": "Cohesiveness",
-        "b": "Adhesiveness",
-        "c": "Permeability",
-        "d": "Flowability"
+        "a": "To store excess molten metal",
+        "b": "To reduce the velocity of falling metal",
+        "c": "To prevent turbulence in the mould cavity",
+        "d": "Both b and c"
       },
       "explanations": {
-        "a": "Permeability in sand refers to its ability to allow gases (such as air or steam) to pass through it. In casting processes, including sand casting, permeability is a critical property because it allows gases generated during pouring (due to molten metal entering the mold) or during solidification (due to the release of gases from the metal) to escape freely from the mold cavity. This prevents defects like gas porosity in the casting.",
-        "b": "Permeability in sand refers to its ability to allow gases (such as air or steam) to pass through it. In casting processes, including sand casting, permeability is a critical property because it allows gases generated during pouring (due to molten metal entering the mold) or during solidification (due to the release of gases from the metal) to escape freely from the mold cavity. This prevents defects like gas porosity in the casting.",
-        "c": "Permeability in sand refers to its ability to allow gases (such as air or steam) to pass through it. In casting processes, including sand casting, permeability is a critical property because it allows gases generated during pouring (due to molten metal entering the mold) or during solidification (due to the release of gases from the metal) to escape freely from the mold cavity. This prevents defects like gas porosity in the casting.",
-        "d": "Permeability in sand refers to its ability to allow gases (such as air or steam) to pass through it. In casting processes, including sand casting, permeability is a critical property because it allows gases generated during pouring (due to molten metal entering the mold) or during solidification (due to the release of gases from the metal) to escape freely from the mold cavity. This prevents defects like gas porosity in the casting."
+        "a": "A sprue base slows down metal flow, reducing turbulence and erosion, which helps maintain casting quality.",
+        "b": "A sprue base slows down metal flow, reducing turbulence and erosion, which helps maintain casting quality.",
+        "c": "A sprue base slows down metal flow, reducing turbulence and erosion, which helps maintain casting quality.",
+        "d": "A sprue base slows down metal flow, reducing turbulence and erosion, which helps maintain casting quality."
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Which of the following is NOT true about riser:",
-      "answers": {
-        "a": "It permits the molten metal to rise above the highest point in the casting",
-        "b": "Filling up of mould cavity can be visually checked from it",
-        "c": "The casting solidifies directionally towards the riser",
-        "d": "Riser and runner extension are used for the same purpose"
-      },
-      "explanations": {
-         "a": "A riser is designed to act as a reservoir of molten metal that allows it to feed the casting as it solidifies. Runner extension refers to the portion of the gating system that connects the sprue to the gates and ultimately to the mold cavity",
-        "b": "A riser is designed to act as a reservoir of molten metal that allows it to feed the casting as it solidifies. Runner extension refers to the portion of the gating system that connects the sprue to the gates and ultimately to the mold cavity",
-        "c": "A riser is designed to act as a reservoir of molten metal that allows it to feed the casting as it solidifies. Runner extension refers to the portion of the gating system that connects the sprue to the gates and ultimately to the mold cavity",
-        "d": "A riser is designed to act as a reservoir of molten metal that allows it to feed the casting as it solidifies. Runner extension refers to the portion of the gating system that connects the sprue to the gates and ultimately to the mold cavity"
-		},
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following is NOT a casting defect:",
+      "question": "What is the function of a riser in sand casting? (LO2)",
       "answers": {
-        "a": "Hot cracks",
-        "b": "Swell",
-        "c": "Shrinkage",
-        "d": "Hot tears"
+        "a": "To trap impurities in the metal",
+        "b": "To increase the mould’s strength",
+        "c": "To supply additional molten metal to compensate for shrinkage",
+        "d": "To act as a vent for escaping gases"
       },
       "explanations": {
-         "a": "Hot cracks, also known as hot tearing or solidification cracking, are indeed a type of casting defect. These cracks occur during solidification due to the stresses caused by uneven cooling or thermal contraction of the metal. Hot cracks can significantly compromise the structural integrity of the casting.",
-        "b": "Hot cracks, also known as hot tearing or solidification cracking, are indeed a type of casting defect. These cracks occur during solidification due to the stresses caused by uneven cooling or thermal contraction of the metal. Hot cracks can significantly compromise the structural integrity of the casting.",
-        "c": "Hot cracks, also known as hot tearing or solidification cracking, are indeed a type of casting defect. These cracks occur during solidification due to the stresses caused by uneven cooling or thermal contraction of the metal. Hot cracks can significantly compromise the structural integrity of the casting.",
-        "d": "Hot cracks, also known as hot tearing or solidification cracking, are indeed a type of casting defect. These cracks occur during solidification due to the stresses caused by uneven cooling or thermal contraction of the metal. Hot cracks can significantly compromise the structural integrity of the casting."
-		},
+        "a": "A riser stores extra molten metal, ensuring the casting remains free from shrinkage defects.",
+        "b": "A riser stores extra molten metal, ensuring the casting remains free from shrinkage defects.",
+        "c": "A riser stores extra molten metal, ensuring the casting remains free from shrinkage defects.",
+        "d": "A riser stores extra molten metal, ensuring the casting remains free from shrinkage defects."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "What is the final step in the sand-casting process before the casting is used? (LO3)",
+      "answers": {
+        "a": "Removing the casting from the mould",
+        "b": "Heat treatment and surface finishing",
+        "c": "Shaking out excess sand",
+        "d": "Cooling the molten metal"
+      },
+      "explanations": {
+        "a": "After cooling, the casting undergoes grinding, trimming, and heat treatment to improve its mechanical properties and appearance.",
+        "b": "After cooling, the casting undergoes grinding, trimming, and heat treatment to improve its mechanical properties and appearance.",
+        "c": "After cooling, the casting undergoes grinding, trimming, and heat treatment to improve its mechanical properties and appearance.",
+        "d": "After cooling, the casting undergoes grinding, trimming, and heat treatment to improve its mechanical properties and appearance."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "What is the purpose of vents in a sand mould? (LO2)",
+      "answers": {
+        "a": "To allow gases to escape from the mould cavity",
+        "b": "To increase the cooling rate of molten metal",
+        "c": "To improve the surface finish of the casting",
+        "d": "To strengthen the mould"
+      },
+      "explanations": {
+        "a": "Vents provide pathways for trapped gases to escape during metal pouring, preventing defects like gas porosity and blowholes, which can weaken the casting.",
+        "b": "Vents provide pathways for trapped gases to escape during metal pouring, preventing defects like gas porosity and blowholes, which can weaken the casting.",
+        "c": "Vents provide pathways for trapped gases to escape during metal pouring, preventing defects like gas porosity and blowholes, which can weaken the casting.",
+        "d": "Vents provide pathways for trapped gases to escape during metal pouring, preventing defects like gas porosity and blowholes, which can weaken the casting."
+      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-  {
-      "question": "The amount of draft required does not depends upon:",
+ {
+      "question": "What is the primary purpose of a gating system in sand casting? (LO2)",
       "answers": {
-        "a": "Shape and size of casting",
-        "b": "Moulding method",
-        "c": "Material of pattern",
-        "d": "Method of production"
+        "a": "To regulate the flow of molten metal into the mould cavity",
+        "b": "To cool the metal before it enters the mould",
+        "c": "To trap impurities and prevent them from entering the mould",
+        "d": "To increase the fluidity of the metal"
       },
       "explanations": {
-        "a": "Larger and more complex shapes generally require more draft to facilitate easy removal from the mold.",
-        "b": "Different molding methods may have specific requirements for draft angles to ensure proper mold filling and pattern removal.",
-        "c": "The material of the pattern used (option c) does not typically affect the amount of draft required.",
-        "d": "Whether the casting is made using sand casting, investment casting, or other methods can influence the required draft angles."
-		},
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-  {
-      "question": "Which of the following is not a type of core according to their position:",
-      "answers": {
-        "a": "Horizontal",
-        "b": "Vertical",
-        "c": "Inclined",
-        "d": "Balanced"
+        "a": "The gating system controls the speed and direction of molten metal as it enters the mould, ensuring smooth flow with minimal turbulence to reduce defects like air entrapment and erosion.",
+        "b": "The gating system controls the speed and direction of molten metal as it enters the mould, ensuring smooth flow with minimal turbulence to reduce defects like air entrapment and erosion.",
+        "c": "The gating system controls the speed and direction of molten metal as it enters the mould, ensuring smooth flow with minimal turbulence to reduce defects like air entrapment and erosion.",
+        "d": "The gating system controls the speed and direction of molten metal as it enters the mould, ensuring smooth flow with minimal turbulence to reduce defects like air entrapment and erosion."
       },
-      "explanations": {
-         "a": "This type of core is positioned horizontally within the mold cavity.",
-        "b": "This type of core is positioned vertically within the mold cavity.",
-        "c": "This type of core is positioned at an angle within the mold cavity.",
-        "d": "inclined is not a standard type of core position classification in casting terminology. Core positions are typically described as horizontal or vertical, and inclined cores would generally fall under a specific angular orientation within the mold cavity rather than as a separate classification term."
-		},
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
