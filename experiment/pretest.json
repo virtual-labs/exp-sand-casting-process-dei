@@ -2,86 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which sand is generally used repetitively for mould making:",
+      "question": "What is the primary purpose of sand casting? (LO1)",
       "answers": {
-        "a": "Silica sand",
-        "b": "Zircon",
-        "c": "Olivine",
-        "d": "Dolomite"
+        "a": "To manufacture plastic parts",
+        "b": "To shape molten metal into a desired form using a sand mould",
+        "c": "To increase the hardness of metal",
+        "d": "To join two metal pieces together"
       },
       "explanations": {
-        "a": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability. One of its key advantages is that it can be reused multiple times in the mold making process. After the casting solidifies and the mold is broken apart, the silica sand can be reclaimed, cleaned, and reused in subsequent mold making processes. This reusability is cost-effective and makes silica sand a preferred choice in foundry applications.",
-        "b": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability.",
-        "c": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability.",
-        "d": "Silica sand is commonly used in sand casting processes for making molds due to its properties such as high refractoriness, good thermal stability, and availability."
+        "a": "Sand casting is one of the most versatile and widely used manufacturing processes for shaping molten metal into complex components. It involves creating a mould cavity by packing sand around a pattern, then pouring molten metal into this cavity to form the desired shape. The sand mould provides high-temperature resistance, making it suitable for casting various metals like aluminum, steel, cast iron, and brass. After the metal solidifies, the mould is broken away to retrieve the final casting.",
+        "b": "Sand casting is one of the most versatile and widely used manufacturing processes for shaping molten metal into complex components. It involves creating a mould cavity by packing sand around a pattern, then pouring molten metal into this cavity to form the desired shape. The sand mould provides high-temperature resistance, making it suitable for casting various metals like aluminum, steel, cast iron, and brass. After the metal solidifies, the mould is broken away to retrieve the final casting.",
+        "c": "Sand casting is one of the most versatile and widely used manufacturing processes for shaping molten metal into complex components. It involves creating a mould cavity by packing sand around a pattern, then pouring molten metal into this cavity to form the desired shape. The sand mould provides high-temperature resistance, making it suitable for casting various metals like aluminum, steel, cast iron, and brass. After the metal solidifies, the mould is broken away to retrieve the final casting.",
+        "d": "Sand casting is one of the most versatile and widely used manufacturing processes for shaping molten metal into complex components. It involves creating a mould cavity by packing sand around a pattern, then pouring molten metal into this cavity to form the desired shape. The sand mould provides high-temperature resistance, making it suitable for casting various metals like aluminum, steel, cast iron, and brass. After the metal solidifies, the mould is broken away to retrieve the final casting."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "The purpose of gate is to:",
+      "question": "What is the function of a core in sand casting? (LO3)",
       "answers": {
-        "a": "Feed the casting at a rate consistent with the rate of solidification",
-        "b": "Act as reservoir for molten metal",
-        "c": "Help feed the casting until all solidification takes place",
-        "d": "Feed molten metal from pouring basin to gate"
+        "a": "To create a hollow section inside the casting",
+        "b": "To increase the cooling rate of molten metal",
+        "c": "To help remove the pattern easily",
+        "d": "To reduce the melting temperature of metal"
       },
       "explanations": {
-       "a": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts.",
-        "b": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts.",
-        "c": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts.",
-        "d": "In the context of sand casting, the gate serves the purpose of feeding molten metal into the mold cavity at a controlled rate. This is crucial because it ensures that the molten metal flows into the mold cavity at a pace that matches the solidification rate of the casting. If the metal enters too quickly, it can cause defects like turbulence and trapped air. If it enters too slowly, it can lead to incomplete casting or cold shuts."
+       "a": "Cores are essential in sand casting when the final product requires internal cavities or complex hollow shapes. Made of specially prepared core sand, cores are inserted into the mould cavity before pouring molten metal. They ensure that the designated areas remain unfilled during solidification. Cores must be strong enough to withstand molten metal pressure yet collapsible enough for easy removal after casting. Common core materials include sand mixed with binders such as sodium silicate, resins, or clay.",
+        "b": "Cores are essential in sand casting when the final product requires internal cavities or complex hollow shapes. Made of specially prepared core sand, cores are inserted into the mould cavity before pouring molten metal. They ensure that the designated areas remain unfilled during solidification. Cores must be strong enough to withstand molten metal pressure yet collapsible enough for easy removal after casting. Common core materials include sand mixed with binders such as sodium silicate, resins, or clay.",
+        "c": "Cores are essential in sand casting when the final product requires internal cavities or complex hollow shapes. Made of specially prepared core sand, cores are inserted into the mould cavity before pouring molten metal. They ensure that the designated areas remain unfilled during solidification. Cores must be strong enough to withstand molten metal pressure yet collapsible enough for easy removal after casting. Common core materials include sand mixed with binders such as sodium silicate, resins, or clay.",
+        "d": "Cores are essential in sand casting when the final product requires internal cavities or complex hollow shapes. Made of specially prepared core sand, cores are inserted into the mould cavity before pouring molten metal. They ensure that the designated areas remain unfilled during solidification. Cores must be strong enough to withstand molten metal pressure yet collapsible enough for easy removal after casting. Common core materials include sand mixed with binders such as sodium silicate, resins, or clay."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
   {
-      "question": "The purpose of sprue is to:",
+      "question": " Which material is most commonly used for making moulds in sand casting? (LO1)",
       "answers": {
-        "a": "Feed the casting at a rate consistent with the rate of solidification",
-        "b": "Act as reservoir for molten metal",
-        "c": "Help feed the casting until all solidification takes place",
-        "d": "Feed molten metal from pouring basin to gate"
+        "a": "Plaster",
+        "b": "Ceramic",
+        "c": "Sand",
+        "d": "Wax"
       },
       "explanations": {
-        "a": "In sand casting, the sprue is a vertical passage through which molten metal flows from the pouring basin (where the metal is poured into the mold) to the gate (through which the metal enters the mold cavity). Its primary purpose is to provide a pathway for the molten metal to reach the mold cavity efficiently and without turbulence.",
-        "b": "In sand casting, the sprue is a vertical passage through which molten metal flows from the pouring basin (where the metal is poured into the mold) to the gate (through which the metal enters the mold cavity). Its primary purpose is to provide a pathway for the molten metal to reach the mold cavity efficiently and without turbulence.",
-        "c": "In sand casting, the sprue is a vertical passage through which molten metal flows from the pouring basin (where the metal is poured into the mold) to the gate (through which the metal enters the mold cavity). Its primary purpose is to provide a pathway for the molten metal to reach the mold cavity efficiently and without turbulence.",
-        "d": "In sand casting, the sprue is a vertical passage through which molten metal flows from the pouring basin (where the metal is poured into the mold) to the gate (through which the metal enters the mold cavity). Its primary purpose is to provide a pathway for the molten metal to reach the mold cavity efficiently and without turbulence."
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-  {
-      "question": "The taper provided to the pattern for its removal is known as:",
-      "answers": {
-        "a": "Shaking allowance",
-        "b": "Distortion allowance",
-        "c": "Draft allowance",
-        "d": "Machining allowance"
-      },
-      "explanations": {
-       "a": "In casting processes, especially sand casting, a draft allowance refers to the slight taper or angle given to the vertical walls of the pattern or mold cavity. This taper facilitates the removal of the pattern from the mold after the molding material has been compacted around it. The draft allowance ensures that the pattern can be withdrawn smoothly without damaging the mold cavity or the pattern itself.",
-        "b": "In casting processes, especially sand casting, a draft allowance refers to the slight taper or angle given to the vertical walls of the pattern or mold cavity. This taper facilitates the removal of the pattern from the mold after the molding material has been compacted around it. The draft allowance ensures that the pattern can be withdrawn smoothly without damaging the mold cavity or the pattern itself.",
-        "c": "In casting processes, especially sand casting, a draft allowance refers to the slight taper or angle given to the vertical walls of the pattern or mold cavity. This taper facilitates the removal of the pattern from the mold after the molding material has been compacted around it. The draft allowance ensures that the pattern can be withdrawn smoothly without damaging the mold cavity or the pattern itself.",
-        "d": "In casting processes, especially sand casting, a draft allowance refers to the slight taper or angle given to the vertical walls of the pattern or mold cavity. This taper facilitates the removal of the pattern from the mold after the molding material has been compacted around it. The draft allowance ensures that the pattern can be withdrawn smoothly without damaging the mold cavity or the pattern itself."
+        "a": "Sand is the most widely used moulding material in sand casting due to its high refractory properties, meaning it can withstand extreme temperatures without breaking down. Sand is also easily reusable, allowing cost-effective production. Different types of moulding sands include green sand, dry sand, and chemically bonded sand, each suited for different casting applications. The choice of sand affects the surface finish, permeability, and overall quality of the final casting.",
+        "b": "Sand is the most widely used moulding material in sand casting due to its high refractory properties, meaning it can withstand extreme temperatures without breaking down. Sand is also easily reusable, allowing cost-effective production. Different types of moulding sands include green sand, dry sand, and chemically bonded sand, each suited for different casting applications. The choice of sand affects the surface finish, permeability, and overall quality of the final casting.",
+        "c": "Sand is the most widely used moulding material in sand casting due to its high refractory properties, meaning it can withstand extreme temperatures without breaking down. Sand is also easily reusable, allowing cost-effective production. Different types of moulding sands include green sand, dry sand, and chemically bonded sand, each suited for different casting applications. The choice of sand affects the surface finish, permeability, and overall quality of the final casting.",
+        "d": "Sand is the most widely used moulding material in sand casting due to its high refractory properties, meaning it can withstand extreme temperatures without breaking down. Sand is also easily reusable, allowing cost-effective production. Different types of moulding sands include green sand, dry sand, and chemically bonded sand, each suited for different casting applications. The choice of sand affects the surface finish, permeability, and overall quality of the final casting."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
- {
-      "question": "The function of cores in casting is to:",
+  {
+      "question": "What is the main function of a riser in sand casting? (LO2)",
       "answers": {
-        "a": "Form extended parts",
-        "b": "Form internal cavities",
-        "c": "Used for directional solidification",
-        "d": "Act as reservoir for molten metal"
+        "a": "To prevent shrinkage defects by supplying extra molten metal",
+        "b": "To control the cooling rate of the metal",
+        "c": "To guide molten metal directly into the mould cavity",
+        "d": "To act as a vent for gases"
       },
       "explanations": {
-      "a": "Cores in casting are used to create internal cavities or voids within the casting that cannot be formed by the pattern alone. These cavities may include holes, recesses, or other complex internal features of the casting. Cores are typically made from sand or other materials that can withstand the heat and pressure of the molten metal during casting.",
-        "b": "Cores in casting are used to create internal cavities or voids within the casting that cannot be formed by the pattern alone. These cavities may include holes, recesses, or other complex internal features of the casting. Cores are typically made from sand or other materials that can withstand the heat and pressure of the molten metal during casting.",
-        "c": "Cores in casting are used to create internal cavities or voids within the casting that cannot be formed by the pattern alone. These cavities may include holes, recesses, or other complex internal features of the casting. Cores are typically made from sand or other materials that can withstand the heat and pressure of the molten metal during casting.",
-        "d": "Cores in casting are used to create internal cavities or voids within the casting that cannot be formed by the pattern alone. These cavities may include holes, recesses, or other complex internal features of the casting. Cores are typically made from sand or other materials that can withstand the heat and pressure of the molten metal during casting."
+        "a": "Risers act as reservoirs that hold excess molten metal, compensating for shrinkage during solidification. When metal cools, it contracts, which can create voids or cavities in the casting. Risers provide additional molten metal to fill these gaps, ensuring a defect-free final product. There are open risers and blind risers, depending on whether they are exposed to the atmosphere or enclosed within the mould",
+        "b": "Risers act as reservoirs that hold excess molten metal, compensating for shrinkage during solidification. When metal cools, it contracts, which can create voids or cavities in the casting. Risers provide additional molten metal to fill these gaps, ensuring a defect-free final product. There are open risers and blind risers, depending on whether they are exposed to the atmosphere or enclosed within the mould",
+        "c": "Risers act as reservoirs that hold excess molten metal, compensating for shrinkage during solidification. When metal cools, it contracts, which can create voids or cavities in the casting. Risers provide additional molten metal to fill these gaps, ensuring a defect-free final product. There are open risers and blind risers, depending on whether they are exposed to the atmosphere or enclosed within the mould",
+        "d": "Risers act as reservoirs that hold excess molten metal, compensating for shrinkage during solidification. When metal cools, it contracts, which can create voids or cavities in the casting. Risers provide additional molten metal to fill these gaps, ensuring a defect-free final product. There are open risers and blind risers, depending on whether they are exposed to the atmosphere or enclosed within the mould"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What type of defects can occur if the sand mould has poor permeability? (LO3)",
+      "answers": {
+        "a": "Metal penetration",
+        "b": "Gas porosity",
+        "c": "Shrinkage cavity",
+        "d": "Cold shut"
+      },
+      "explanations": {
+        "a": "Permeability refers to the ability of sand to allow gases to escape during casting. If the mould has poor permeability, gases remain trapped, forming bubbles or holes in the casting. This results in gas porosity defects, which weaken the casting and affect surface finish. Proper sand selection, venting, and moisture control help improve permeability and reduce defects.",
+        "b": "Permeability refers to the ability of sand to allow gases to escape during casting. If the mould has poor permeability, gases remain trapped, forming bubbles or holes in the casting. This results in gas porosity defects, which weaken the casting and affect surface finish. Proper sand selection, venting, and moisture control help improve permeability and reduce defects.",
+        "c": "Permeability refers to the ability of sand to allow gases to escape during casting. If the mould has poor permeability, gases remain trapped, forming bubbles or holes in the casting. This results in gas porosity defects, which weaken the casting and affect surface finish. Proper sand selection, venting, and moisture control help improve permeability and reduce defects.",
+        "d": "Permeability refers to the ability of sand to allow gases to escape during casting. If the mould has poor permeability, gases remain trapped, forming bubbles or holes in the casting. This results in gas porosity defects, which weaken the casting and affect surface finish. Proper sand selection, venting, and moisture control help improve permeability and reduce defects."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
