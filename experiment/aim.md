@@ -10,3 +10,6 @@ LO3: To understand how a sand metal casting process is performed.
 
 ## EXPERIMENT NAME
 Sand Casting Process
+
+
+Hi amol satsangi
