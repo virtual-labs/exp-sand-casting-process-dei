@@ -151,6 +151,15 @@ function removeSprue()
 	}, 3000);
 }
 
+function explodedView()
+{
+	document.getElementById("simulation").innerHTML="<img src='images/ExplodedView.gif' width='40%'>";
+	document.getElementById("explodedView").style.display = "none";
+	setTimeout(() => {
+	document.getElementById("removeDrag").style.display = "block";
+	}, 3000);
+}
+
 function removeDrag()
 {
 	document.getElementById("simulation").innerHTML="<img src='images/removeDrag.gif' width='40%'>";
