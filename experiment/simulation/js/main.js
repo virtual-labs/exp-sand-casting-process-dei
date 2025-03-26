@@ -148,7 +148,7 @@ function explodedView()
 	document.getElementById("explodedView").style.display = "none";
 	setTimeout(() => {
 	document.getElementById("removeSprue").style.display = "block";
-	}, 5000);
+	}, 7000);
 }
 
 function removeSprue()
