@@ -138,6 +138,15 @@ function ram()
 	document.getElementById("simulation").innerHTML="<img src='images/ram.gif' width='40%'>";
 	document.getElementById("ram").style.display = "none";
 	setTimeout(() => {
+	document.getElementById("explodedView").style.display = "block";
+	}, 5000);
+}
+
+function explodedView()
+{
+	document.getElementById("simulation").innerHTML="<img src='images/ExplodedView.gif' width='80%'>";
+	document.getElementById("explodedView").style.display = "none";
+	setTimeout(() => {
 	document.getElementById("removeSprue").style.display = "block";
 	}, 5000);
 }
@@ -146,15 +155,6 @@ function removeSprue()
 {
 	document.getElementById("simulation").innerHTML="<img src='images/removeSprue.gif' width='40%'>";
 	document.getElementById("removeSprue").style.display = "none";
-	setTimeout(() => {
-	document.getElementById("explodedView").style.display = "block";
-	}, 3000);
-}
-
-function explodedView()
-{
-	document.getElementById("simulation").innerHTML="<img src='images/ExplodedView.gif' width='40%'>";
-	document.getElementById("explodedView").style.display = "none";
 	setTimeout(() => {
 	document.getElementById("removeDrag").style.display = "block";
 	}, 3000);
