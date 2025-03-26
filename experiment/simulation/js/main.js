@@ -147,7 +147,7 @@ function removeSprue()
 	document.getElementById("simulation").innerHTML="<img src='images/removeSprue.gif' width='40%'>";
 	document.getElementById("removeSprue").style.display = "none";
 	setTimeout(() => {
-	document.getElementById("removeDrag").style.display = "block";
+	document.getElementById("explodedView").style.display = "block";
 	}, 3000);
 }
 
