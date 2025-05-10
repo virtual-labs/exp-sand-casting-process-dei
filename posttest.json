@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the purpose of a sprue base in a gating system? (LO2)",
+      "answers": {
+        "a": "To store excess molten metal",
+        "b": "To reduce the velocity of falling metal",
+        "c": "To prevent turbulence in the mould cavity",
+        "d": "Both b and c"
+      },
+      "explanations": {
+        "a": "A sprue base slows down metal flow, reducing turbulence and erosion, which helps maintain casting quality.",
+        "b": "A sprue base slows down metal flow, reducing turbulence and erosion, which helps maintain casting quality.",
+        "c": "A sprue base slows down metal flow, reducing turbulence and erosion, which helps maintain casting quality.",
+        "d": "A sprue base slows down metal flow, reducing turbulence and erosion, which helps maintain casting quality."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the function of a riser in sand casting? (LO2)",
+      "answers": {
+        "a": "To trap impurities in the metal",
+        "b": "To increase the mould’s strength",
+        "c": "To supply additional molten metal to compensate for shrinkage",
+        "d": "To act as a vent for escaping gases"
+      },
+      "explanations": {
+        "a": "A riser stores extra molten metal, ensuring the casting remains free from shrinkage defects.",
+        "b": "A riser stores extra molten metal, ensuring the casting remains free from shrinkage defects.",
+        "c": "A riser stores extra molten metal, ensuring the casting remains free from shrinkage defects.",
+        "d": "A riser stores extra molten metal, ensuring the casting remains free from shrinkage defects."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "What is the final step in the sand-casting process before the casting is used? (LO3)",
+      "answers": {
+        "a": "Removing the casting from the mould",
+        "b": "Heat treatment and surface finishing",
+        "c": "Shaking out excess sand",
+        "d": "Cooling the molten metal"
+      },
+      "explanations": {
+        "a": "After cooling, the casting undergoes grinding, trimming, and heat treatment to improve its mechanical properties and appearance.",
+        "b": "After cooling, the casting undergoes grinding, trimming, and heat treatment to improve its mechanical properties and appearance.",
+        "c": "After cooling, the casting undergoes grinding, trimming, and heat treatment to improve its mechanical properties and appearance.",
+        "d": "After cooling, the casting undergoes grinding, trimming, and heat treatment to improve its mechanical properties and appearance."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "What is the purpose of vents in a sand mould? (LO2)",
+      "answers": {
+        "a": "To allow gases to escape from the mould cavity",
+        "b": "To increase the cooling rate of molten metal",
+        "c": "To improve the surface finish of the casting",
+        "d": "To strengthen the mould"
+      },
+      "explanations": {
+        "a": "Vents provide pathways for trapped gases to escape during metal pouring, preventing defects like gas porosity and blowholes, which can weaken the casting.",
+        "b": "Vents provide pathways for trapped gases to escape during metal pouring, preventing defects like gas porosity and blowholes, which can weaken the casting.",
+        "c": "Vents provide pathways for trapped gases to escape during metal pouring, preventing defects like gas porosity and blowholes, which can weaken the casting.",
+        "d": "Vents provide pathways for trapped gases to escape during metal pouring, preventing defects like gas porosity and blowholes, which can weaken the casting."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What is the primary purpose of a gating system in sand casting? (LO2)",
+      "answers": {
+        "a": "To regulate the flow of molten metal into the mould cavity",
+        "b": "To cool the metal before it enters the mould",
+        "c": "To trap impurities and prevent them from entering the mould",
+        "d": "To increase the fluidity of the metal"
+      },
+      "explanations": {
+        "a": "The gating system controls the speed and direction of molten metal as it enters the mould, ensuring smooth flow with minimal turbulence to reduce defects like air entrapment and erosion.",
+        "b": "The gating system controls the speed and direction of molten metal as it enters the mould, ensuring smooth flow with minimal turbulence to reduce defects like air entrapment and erosion.",
+        "c": "The gating system controls the speed and direction of molten metal as it enters the mould, ensuring smooth flow with minimal turbulence to reduce defects like air entrapment and erosion.",
+        "d": "The gating system controls the speed and direction of molten metal as it enters the mould, ensuring smooth flow with minimal turbulence to reduce defects like air entrapment and erosion."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

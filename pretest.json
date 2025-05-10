@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the primary purpose of sand casting? (LO1)",
+      "answers": {
+        "a": "To manufacture plastic parts",
+        "b": "To shape molten metal into a desired form using a sand mould",
+        "c": "To increase the hardness of metal",
+        "d": "To join two metal pieces together"
+      },
+      "explanations": {
+        "a": "Sand casting is one of the most versatile and widely used manufacturing processes for shaping molten metal into complex components. It involves creating a mould cavity by packing sand around a pattern, then pouring molten metal into this cavity to form the desired shape. The sand mould provides high-temperature resistance, making it suitable for casting various metals like aluminum, steel, cast iron, and brass. After the metal solidifies, the mould is broken away to retrieve the final casting.",
+        "b": "Sand casting is one of the most versatile and widely used manufacturing processes for shaping molten metal into complex components. It involves creating a mould cavity by packing sand around a pattern, then pouring molten metal into this cavity to form the desired shape. The sand mould provides high-temperature resistance, making it suitable for casting various metals like aluminum, steel, cast iron, and brass. After the metal solidifies, the mould is broken away to retrieve the final casting.",
+        "c": "Sand casting is one of the most versatile and widely used manufacturing processes for shaping molten metal into complex components. It involves creating a mould cavity by packing sand around a pattern, then pouring molten metal into this cavity to form the desired shape. The sand mould provides high-temperature resistance, making it suitable for casting various metals like aluminum, steel, cast iron, and brass. After the metal solidifies, the mould is broken away to retrieve the final casting.",
+        "d": "Sand casting is one of the most versatile and widely used manufacturing processes for shaping molten metal into complex components. It involves creating a mould cavity by packing sand around a pattern, then pouring molten metal into this cavity to form the desired shape. The sand mould provides high-temperature resistance, making it suitable for casting various metals like aluminum, steel, cast iron, and brass. After the metal solidifies, the mould is broken away to retrieve the final casting."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the function of a core in sand casting? (LO3)",
+      "answers": {
+        "a": "To create a hollow section inside the casting",
+        "b": "To increase the cooling rate of molten metal",
+        "c": "To help remove the pattern easily",
+        "d": "To reduce the melting temperature of metal"
+      },
+      "explanations": {
+       "a": "Cores are essential in sand casting when the final product requires internal cavities or complex hollow shapes. Made of specially prepared core sand, cores are inserted into the mould cavity before pouring molten metal. They ensure that the designated areas remain unfilled during solidification. Cores must be strong enough to withstand molten metal pressure yet collapsible enough for easy removal after casting. Common core materials include sand mixed with binders such as sodium silicate, resins, or clay.",
+        "b": "Cores are essential in sand casting when the final product requires internal cavities or complex hollow shapes. Made of specially prepared core sand, cores are inserted into the mould cavity before pouring molten metal. They ensure that the designated areas remain unfilled during solidification. Cores must be strong enough to withstand molten metal pressure yet collapsible enough for easy removal after casting. Common core materials include sand mixed with binders such as sodium silicate, resins, or clay.",
+        "c": "Cores are essential in sand casting when the final product requires internal cavities or complex hollow shapes. Made of specially prepared core sand, cores are inserted into the mould cavity before pouring molten metal. They ensure that the designated areas remain unfilled during solidification. Cores must be strong enough to withstand molten metal pressure yet collapsible enough for easy removal after casting. Common core materials include sand mixed with binders such as sodium silicate, resins, or clay.",
+        "d": "Cores are essential in sand casting when the final product requires internal cavities or complex hollow shapes. Made of specially prepared core sand, cores are inserted into the mould cavity before pouring molten metal. They ensure that the designated areas remain unfilled during solidification. Cores must be strong enough to withstand molten metal pressure yet collapsible enough for easy removal after casting. Common core materials include sand mixed with binders such as sodium silicate, resins, or clay."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+  {
+      "question": " Which material is most commonly used for making moulds in sand casting? (LO1)",
+      "answers": {
+        "a": "Plaster",
+        "b": "Ceramic",
+        "c": "Sand",
+        "d": "Wax"
+      },
+      "explanations": {
+        "a": "Sand is the most widely used moulding material in sand casting due to its high refractory properties, meaning it can withstand extreme temperatures without breaking down. Sand is also easily reusable, allowing cost-effective production. Different types of moulding sands include green sand, dry sand, and chemically bonded sand, each suited for different casting applications. The choice of sand affects the surface finish, permeability, and overall quality of the final casting.",
+        "b": "Sand is the most widely used moulding material in sand casting due to its high refractory properties, meaning it can withstand extreme temperatures without breaking down. Sand is also easily reusable, allowing cost-effective production. Different types of moulding sands include green sand, dry sand, and chemically bonded sand, each suited for different casting applications. The choice of sand affects the surface finish, permeability, and overall quality of the final casting.",
+        "c": "Sand is the most widely used moulding material in sand casting due to its high refractory properties, meaning it can withstand extreme temperatures without breaking down. Sand is also easily reusable, allowing cost-effective production. Different types of moulding sands include green sand, dry sand, and chemically bonded sand, each suited for different casting applications. The choice of sand affects the surface finish, permeability, and overall quality of the final casting.",
+        "d": "Sand is the most widely used moulding material in sand casting due to its high refractory properties, meaning it can withstand extreme temperatures without breaking down. Sand is also easily reusable, allowing cost-effective production. Different types of moulding sands include green sand, dry sand, and chemically bonded sand, each suited for different casting applications. The choice of sand affects the surface finish, permeability, and overall quality of the final casting."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "What is the main function of a riser in sand casting? (LO2)",
+      "answers": {
+        "a": "To prevent shrinkage defects by supplying extra molten metal",
+        "b": "To control the cooling rate of the metal",
+        "c": "To guide molten metal directly into the mould cavity",
+        "d": "To act as a vent for gases"
+      },
+      "explanations": {
+        "a": "Risers act as reservoirs that hold excess molten metal, compensating for shrinkage during solidification. When metal cools, it contracts, which can create voids or cavities in the casting. Risers provide additional molten metal to fill these gaps, ensuring a defect-free final product. There are open risers and blind risers, depending on whether they are exposed to the atmosphere or enclosed within the mould",
+        "b": "Risers act as reservoirs that hold excess molten metal, compensating for shrinkage during solidification. When metal cools, it contracts, which can create voids or cavities in the casting. Risers provide additional molten metal to fill these gaps, ensuring a defect-free final product. There are open risers and blind risers, depending on whether they are exposed to the atmosphere or enclosed within the mould",
+        "c": "Risers act as reservoirs that hold excess molten metal, compensating for shrinkage during solidification. When metal cools, it contracts, which can create voids or cavities in the casting. Risers provide additional molten metal to fill these gaps, ensuring a defect-free final product. There are open risers and blind risers, depending on whether they are exposed to the atmosphere or enclosed within the mould",
+        "d": "Risers act as reservoirs that hold excess molten metal, compensating for shrinkage during solidification. When metal cools, it contracts, which can create voids or cavities in the casting. Risers provide additional molten metal to fill these gaps, ensuring a defect-free final product. There are open risers and blind risers, depending on whether they are exposed to the atmosphere or enclosed within the mould"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What type of defects can occur if the sand mould has poor permeability? (LO3)",
+      "answers": {
+        "a": "Metal penetration",
+        "b": "Gas porosity",
+        "c": "Shrinkage cavity",
+        "d": "Cold shut"
+      },
+      "explanations": {
+        "a": "Permeability refers to the ability of sand to allow gases to escape during casting. If the mould has poor permeability, gases remain trapped, forming bubbles or holes in the casting. This results in gas porosity defects, which weaken the casting and affect surface finish. Proper sand selection, venting, and moisture control help improve permeability and reduce defects.",
+        "b": "Permeability refers to the ability of sand to allow gases to escape during casting. If the mould has poor permeability, gases remain trapped, forming bubbles or holes in the casting. This results in gas porosity defects, which weaken the casting and affect surface finish. Proper sand selection, venting, and moisture control help improve permeability and reduce defects.",
+        "c": "Permeability refers to the ability of sand to allow gases to escape during casting. If the mould has poor permeability, gases remain trapped, forming bubbles or holes in the casting. This results in gas porosity defects, which weaken the casting and affect surface finish. Proper sand selection, venting, and moisture control help improve permeability and reduce defects.",
+        "d": "Permeability refers to the ability of sand to allow gases to escape during casting. If the mould has poor permeability, gases remain trapped, forming bubbles or holes in the casting. This results in gas porosity defects, which weaken the casting and affect surface finish. Proper sand selection, venting, and moisture control help improve permeability and reduce defects."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
